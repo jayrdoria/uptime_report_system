@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-react-app@latest uptime-report-app --template typescript)",
+      "Bash(dir /b \"c:\\\\Important Files\\\\Netovation\\\\Projects\\\\2025\\\\uptime_report_system\")"
+    ]
+  }
+}
